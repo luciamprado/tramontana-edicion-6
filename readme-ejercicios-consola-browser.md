@@ -25,6 +25,11 @@ git clone [URL_DEL_REPOSITORIO]
 cd ejercicios-consola-browser
 ```
 
+Si no quieres trabajar con terminal, considera editores como Cursor, que ya
+traen incorporadas las capacidades de IA y te pueden asistir muy bien.
+
+En mi caso particular, uso Claude Code directamente en terminal.
+
 ### 2. Abrir el archivo HTML
 
 Desde tu navegador abre el fichero index-dom.html.
